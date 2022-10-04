@@ -19,7 +19,55 @@ A man of Elon Musk's caliber is capable of achieving greater things. He certainl
 </tr>
 <tr>
 <td>Measure Free Speech</td>
-<td> - Metrics to measure Free Speech.</td>
+<td> 
+  - Metrics to measure Free Speech.<br>
+  - World map with statistics for countries and continents
+  - In which country do you receive the most complaints about tweets? In which countries are tweets blocked the most?
+Which topics / tags have been blocked in the last weeks and months?<br>
+  - In some countries twitter is completely blocked and therefore not accessible. Are there mechanisms like satellite networks or VPN or other protocols to still be able to inform the population?
+</td>
 <td>Middle</td>
 </tr>
+<tr>
+<td>Communication platform for political discussions</td>
+<td> 
+  Many politicians are registered on Twitter and use it actively. They can use the platform for discussions and suggestions.<br>
+  - International discussions can be coordinated and discussed globally via new mechanisms.<br>
+  - Moderation options and a better thread visualization
+</td>
+<td>High</td>
+</tr>
+  <tr>
+<td>Messaging service for things (IoT)</td>
+<td> 
+  - Devices can send messages via Twitter (already possible)<br>
+  - Simple way to manage your own devices
+  - Interface for manufacturers such as cars, refrigerators, washing machines, etc.
+  - Use case: My car reminds me about the next inspection
+</td>
+<td>High</td>
+</tr>
+<tr>
+<td>Twitter pay</td>
+<td> 
+  - Pay with twitter like Apple Pay<br>
+  - Twitter account is like a bank account.<br>
+  - With the app you can pay everywhere.<br>
+  - You can transfer crypto currencies to other users. Start with Doge.
+</td>
+<td>High</td>
+</tr>
+<tr>
+<td>Platform for Open Data</td>
+<td> 
+  - Share and discuss data.<br>
+  - Open Data can be shared with followers much simpler.<br>
+  - Journalists, human rights activists, authorities and governments as users.<br>
+  - Systems feed data automatically and the data is anonymized and available to all Twitter users..
+</td>
+<td>High</td>
+</tr>
 </table>
+
+
+New ideas and suggestions are welcome
