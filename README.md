@@ -6,3 +6,20 @@ But what progress and benefits will such little things like a button or a check 
 ## One should have much higher ambitions. You can certainly have much higher expectations from Elon Musk.
 
 A man of Elon Musk's caliber is capable of achieving greater things. He certainly don't buy Twitter for profit. Does he want to promote freedom of expression in the social networks? Or does he want to influence opinion and possibly become president?
+
+<img src="maslow-elon-on-top.png" width="800">
+
+## But what can we expect from Elon Musk? Expectations are to be collected here, especially in terms of software and data. What extensions and features can be useful for mankind?
+
+<table>
+<tr>
+<th>Title</th>
+<th>Description</th>
+<th>Potential for people</th>
+</tr>
+<tr>
+<td>Measure Free Speech</td>
+<td> - Metrics to measure Free Speech.</td>
+<td>Middle</td>
+</tr>
+</table>
