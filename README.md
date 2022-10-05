@@ -69,5 +69,8 @@ Which topics / tags have been blocked in the last weeks and months?<br>
 </tr>
 </table>
 
+## How to participate
+
+https://forms.gle/wvkt1sSUsx9MNmwU9
 
 New ideas and suggestions are welcome
